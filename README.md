@@ -1,4 +1,4 @@
-# Salon Dönüş
+# Salon Management
 
 **Bring salon clients back at the right time.** *(Tr: Müşterilerinizi doğru zamanda geri getiren hatırlatma asistanı.)*
 
