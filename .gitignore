@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local salon data
+/data/
+!.env.example
+/data-demo/
+/docs/.tmp/
