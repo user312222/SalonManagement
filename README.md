@@ -1,6 +1,6 @@
 # Salon Management
 
-**Bring salon clients back at the right time.** *(Tr: Müşterilerinizi doğru zamanda geri getiren hatırlatma asistanı.)*
+**Bring salon clients back at the right time.**
 
 Small beauty salons lose money when clients quietly stop coming back. Salon Dönüş tells the owner **who is due to return today** and prepares a ready-to-send WhatsApp message with a one-tap booking-request link. The follow-up timing depends on the **service** (a gloss/toner about four weeks after a colour, a lash lift after seven), not on a generic schedule.
 
